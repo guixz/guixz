@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, sou o Guilherme Duarte</h1>
-<h3 align="center">Desenvolvedor Front-End no Brasil.</h3>
+<h1 align="left">Olá 👋, sou o Guilherme Duarte</h1>
+<h3 align="left">Desenvolvedor Front-End no Brasil.</h3>
 
 - 🌱 Aprendendo um pouco de **HTML, CSS, JavaScript e React.**
 
